@@ -1,6 +1,6 @@
 <h1 style="color:red;">
 Este proyecto fue desarollado en otro repositorio. Si desea mas informacion sobre el ver el siguiente enlace:
-<a href="[link](https://gitlab.com/saualopez/arcodex)">link </a>
+<a href="https://gitlab.com/saualopez/arcodex">link </a>
 </h1>
 
 
